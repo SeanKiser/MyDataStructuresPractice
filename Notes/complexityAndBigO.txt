@@ -1,0 +1,26 @@
+as size of inputs increase towards infinity how does runtime of program grow
+
+O(n) Linear runtime ex: go through string of letters letter by letter
+
+O(1) Constant runtime ex: checking the length of a string
+
+inportant to note how it runtime scales with input
+
+O(log n) ex: binary search in already sorted array
+
+O(n^2)
+
+O(1) excutes in same time no matter how large the array/input inputs
+O(n) grows in direct proportion of input
+O(n^2) grows in proportion to input ex: nested loops
+o(log n) data being used decreases by roughly half ex: binary search
+O(n log n) 
+
+
+Best case runtime is denoted with omega. So for example linearly searching through an array to find a number is omega(1)
+worst-case the worst an algorithm could do. Linear searching for a number in an array and it being at the end of an array is O(n)
+
+Theta is used for both lower bound and upper bound
+
+
+
